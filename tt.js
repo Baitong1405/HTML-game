@@ -112,3 +112,5 @@ function draw() {
     requestAnimationFrame(draw)
 }
 draw();
+
+//งานเมื่อไรจะเสร็จ
